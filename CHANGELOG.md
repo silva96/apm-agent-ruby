@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## Unreleased
+
+### Added
+
+- Read container info from Docker or Kupernetes ([#303](https://github.com/elastic/apm-agent-ruby/pull/303))
+
 ## 2.3.0 (2019-01-29)
 
 ### Added
